@@ -1,0 +1,18 @@
+task one: Create a phonebook app
+
+1. Use either html/php/js/python
+2.The App/Website should allow me to Login,Register,See my contacts,Add or remove contact
+3.All this should be read and recorded in a DB
+4.
+
+PS:All users should have their own contacts_DB 
+   i.e if user1 logs in he/she has their contacts, if user2 logs in they have a different set of contacts.
+
+Process:
+
+1.prompts login_page{Username,Email,Password,Confirm password,Register button,Already a member?sign-in Option}
+2.>>On registration IF you enter username & email only Prompts for additional password & confirmation.
+  >>On registration if the password & confirm password DONT match it PROMPTS for re-entering password.
+
+
+
